@@ -3,8 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>pfSense Project</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  
+    
 - <b>Python Projects</b>
 
 - <b>Java Projects</b>
