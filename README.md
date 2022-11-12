@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>HOW IT ALL STARTED</b>
- - [Client Uptime - Windows Environment](https://github.com/DwayneMClarke/batchScriptClientUptime)
+   - [Client Uptime - Windows Environment](https://github.com/DwayneMClarke/batchScriptClientUptime)
 
 - <b>pfSense Project</b>
     
