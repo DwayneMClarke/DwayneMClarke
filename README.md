@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>HOW IT ALL STARTED</b>
+
 - <b>pfSense Project</b>
     
 - <b>Python Projects</b>
