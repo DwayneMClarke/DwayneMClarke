@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-<b>HELLO WORLD!</b> https://youtu.be/PJJdMMIueoY
+<b>HELLO WORLD!</b> (https://youtu.be/PJJdMMIueoY)
 
 - <b>How it All Started</b>
    - [Client Uptime - Windows Environment](https://github.com/DwayneMClarke/batchScriptClientUptime)
