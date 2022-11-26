@@ -16,6 +16,8 @@
 - <b>C++ Projects</b>
   
 - <b>PowerShell</b>
+
+- <b>Azure Projects</b>
   
 
 
