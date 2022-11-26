@@ -18,6 +18,9 @@
 - <b>PowerShell</b>
 
 - <b>Azure Projects</b>
+   - [Microsoft Azure Honeypot Lab](https://github.com/DwayneMClarke/AzureSentinelHoneyPotLab)
+
+
   
 
 
