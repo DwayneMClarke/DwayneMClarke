@@ -35,7 +35,9 @@
 [<img align="left" alt="DwayneMClarke | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-
+[twitter]: https://twitter.com/dwaynemclarke
+[youtube]: https://www.youtube.com/@dwaynemclarke
+[instagram]: https://www.instagram.com/dwaynemclarke/
 [linkedin]: https://www.linkedin.com/in/clarkedwaynem/
 
 <!--
