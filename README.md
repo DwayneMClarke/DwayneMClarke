@@ -28,6 +28,8 @@
 
 HOW I GOT 24 I.T. CERTIFICATIONS FOR FREE!! -  https://youtu.be/HaM5HEBsGbA
 
+pfSENSE LAB - BLOCK ICMP - https://youtu.be/Vh9-Bvjvhtw
+
 
 <h2> 🤳 Connect with me:</h2>
 
