@@ -8,7 +8,7 @@
    - [Client Uptime - Windows Environment](https://github.com/DwayneMClarke/batchScriptClientUptime)
 
 - <b>pfSense Project</b>
-    
+        
 - <b>Python Projects</b>
 
 - <b>Java Projects</b>
@@ -25,6 +25,8 @@
 
 
 <h2>📺 Popular YouTube Videos</h2>
+
+HOW I GOT 24 I.T. CERTIFICATIONS FOR FREE!! -  https://youtu.be/HaM5HEBsGbA
 
 
 <h2> 🤳 Connect with me:</h2>
